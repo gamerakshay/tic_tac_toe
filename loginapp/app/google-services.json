@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720149240073",
+    "firebase_url": "https://login-demo-f9327.firebaseio.com",
+    "project_id": "login-demo-f9327",
+    "storage_bucket": "login-demo-f9327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720149240073:android:51a764d2d7ee8e576c9bd8",
+        "android_client_info": {
+          "package_name": "com.gamerakshay.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720149240073-qfeuru6p32m5cnkh1ph2kdaf0ted9p0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFozHmqMEHsVBZebLdUz6IZcwsaTdUAnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720149240073-qfeuru6p32m5cnkh1ph2kdaf0ted9p0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
